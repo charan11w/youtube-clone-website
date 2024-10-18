@@ -36,7 +36,7 @@ This project is licensed under the MIT License.
 
 
 ## Author
-[Your Name]
+Charan11w
 
 
 ## Acknowledgments
